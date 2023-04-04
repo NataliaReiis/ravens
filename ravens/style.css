@@ -1,0 +1,202 @@
+
+*{ margin: 0 auto;
+    padding: 0 ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background: #1A0C23;
+    color: white;
+    margin: 0 30px;
+   
+}
+
+h1{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 30px;
+}
+
+p{
+    color: white;
+  
+}
+
+nav{
+    margin-left: -30px;
+    margin-right: -30px;
+    background: #14091B;
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+nav ul{
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+nav li{
+    list-style: none;
+    margin: auto;
+    font-size: 18px;
+    display: flex;
+   
+}
+
+nav a{
+    display: block;
+    text-decoration: none;
+    color: white;
+    padding: 10px 12px;
+    text-align: center;
+    margin-right: 20px;
+    text-align: center;
+  
+}
+
+.container1{
+   
+}
+.container1 img{
+   padding-top: 80px;
+   margin-left: -35px;
+
+ 
+}
+
+.linha {
+    border-bottom: 1px solid #262626;
+}
+
+
+.container2{
+    margin-bottom: 50px;
+}
+.noticias{
+    border-radius: 50px;
+    margin-top: 40px;
+    width: 70%;
+    height: 500px;
+    background: #3A2A5F;
+    text-align: center;
+}
+
+.noticias img {
+    padding-top: 40px;
+    padding-left: 40px;
+
+}
+
+.container3{
+    display: flex;
+    margin-top: 90px;
+}
+
+
+.container3 h2{
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.about{
+    width: 70%;
+   
+}
+
+.corvo1{
+   width: 30%;
+    
+}
+
+.corvo2{
+    width: 30%;
+       
+}
+
+.corvo1 img{
+    width: 100%;
+    margin: 50% -45%;
+}
+.corvo2 img{
+    width: 100%;
+    margin: 0 45%;
+}
+
+.e-sports{
+    display: flex;
+}
+
+
+.e-sports p{
+    margin-top: 40px;
+    width: 80%;
+   
+}
+
+.game{
+    margin: 50px 200px
+    ;
+}
+
+.game img{
+    margin-left: 25px;
+    width: 30%;
+}
+
+.container6{
+    margin-left: -30px;
+    margin-right: -30px;
+}
+
+.caneca{
+    width: 80%;
+    display: flex;
+    height: 60%;
+    
+    
+}
+
+.caneca img{
+    width:100%;
+ 
+}
+
+.txtloja{
+    padding-top: 140px;
+    width: 100%;
+    text-align: center;
+    
+}
+
+.txtloja h2{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.txtloja a{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    background-color: #183409;
+    padding: 15px;
+    border-radius: 35px ;
+}
+
+.blusas{
+    display: flex;
+    width: 80%;
+    height: 60%;
+}
+
+.blusas img{
+    width:100%;
+
+}
+
+footer{
+    width: 100%;
+    background-color: #262626;
+}
